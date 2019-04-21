@@ -6,6 +6,7 @@
 <p>4. Longest Increasing Subsequence in C++</p><br>
 <p>5. Maze Problem in C++</p><br>
 <p>6. Maze with blocks in C++</p><br>
+<p>7.Tiling Problem</p> 
 <p>7. One or Two steps in C++</p><br>
 <p>8. Total no of paths in C++</p><br>
 <h3>KARATSUBA MULTIPLICATION in python</h3><br>
