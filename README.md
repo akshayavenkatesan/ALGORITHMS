@@ -1,6 +1,7 @@
 # ALGORITHMS
 <h3>DYNAMIC PROGRAMING</h3><br>
 <p>1. Coin Change Problem</p><br>
+<p>2. Edit Distance</p><br>
 <p>2. Friends Pairing Problem</p><br>
 <p>3. Longest common Subsequence in C++</p><br>
 <p>4. Longest Increasing Subsequence in C++</p><br>
